@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1711813780 source:c:\users\mineducyt\downloads\evaluacion1-labprograii-main\src\cliente.cpp
+	"Cliente.h"
+	<string.h>
+	<iostream>
+	<stdio.h>
+
+1711813780 c:\users\mineducyt\downloads\evaluacion1-labprograii-main\include\cliente.h
+	<string.h>
+	<iostream>
+	<stdio.h>
+
+1711813780 source:c:\users\mineducyt\downloads\evaluacion1-labprograii-main\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1711813780 c:\users\mineducyt\downloads\evaluacion1-labprograii-main\include\fecha.h
+	<iostream>
+	<stdio.h>
+
+1711814116 source:c:\users\mineducyt\downloads\evaluacion1-labprograii-main\src\abono.cpp
+	"Abono.h"
+	"Fecha.h"
+	"Cuenta.h"
+	<stdlib.h>
+
+1711813780 c:\users\mineducyt\downloads\evaluacion1-labprograii-main\include\abono.h
+	<iostream>
+	<stdio.h>
+	"Fecha.h"
+
+1711816589 c:\users\mineducyt\downloads\evaluacion1-labprograii-main\include\cuenta.h
+	"Cliente.h"
+	"Fecha.h"
+	"Abono.h"
+
+1711814405 source:c:\users\mineducyt\downloads\evaluacion1-labprograii-main\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Cliente.h"
+	"Fecha.h"
+	"Abono.h"
+	"Cuenta.h"
+
+1711816590 source:c:\users\mineducyt\downloads\evaluacion1-labprograii-main\src\cuenta.cpp
+	"Cuenta.h"
+
